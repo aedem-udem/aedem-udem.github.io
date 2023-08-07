@@ -1,16 +1,16 @@
 # site settings
-title: Association Étudiante de Démographie
-subtitle: Université de Montréal
-email: aedem.udem@gmail.com
+title: "Association Étudiante de Démographie"
+subtitle: "Université de Montréal"
+email: "aedem.udem@gmail.com"
 description:
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: https://aedem-udem.github.io/
+baseurl: ""
+url:
 author:
-street_address: 3150, rue Jean-Brillant, Montréal
-city: Montréal
-state: QC
-zip_code: H3T 1N8
-country: Canada
+street_address: "3150, rue Jean-Brillant, Montréal"
+city: "Montréal"
+state: "QC"
+zip_code: "H3T 1N8"
+country: "Canada"
 phone:
 
 # homepage tiles
