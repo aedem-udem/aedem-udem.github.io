@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Bienvenue sur le site web de l'AEDEM'
+landing-title: 'Hi, my name is Forty'
 description: null
 image: null
 author: null
