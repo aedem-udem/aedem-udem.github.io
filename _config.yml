@@ -1,8 +1,8 @@
 # site settings
-title: Association Étudiante de Démographie
+title: AEDEM
 subtitle: Université de Montréal
 email: aedem.udem@gmail.com
-description: Un site web où vous pourrez trouver de l'information relative au programme de démographie de l'Université de Montréal et à son association étudiante.
+description: Bienvenue sur le site web de l'AEDEM, où vous pourrez trouver de l'information relative au programme de démographie de l'Université de Montréal et à son association étudiante.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

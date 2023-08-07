@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Bienvenue sur le site de l AEDEM'
+landing-title: 'Association Étudiante de Démographie'
 description: null
 image: null
 author: null
