@@ -2,7 +2,7 @@
 title: Association Étudiante de Démographie
 subtitle: Université de Montréal
 email: aedem.udem@gmail.com
-description: Site web de l'AEDEM, où vous pourrez trouver de l'information relative au programme de démographie.
+description:
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: https://aedem-udem.github.io/
 author:
