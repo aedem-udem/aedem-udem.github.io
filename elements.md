@@ -122,6 +122,7 @@ nav-menu: true
 <!-- Membres -->
 
 <section class="members-container">
+<h2>Les membres du conseil exécutif</h2>
   <div class="member">
     <div class="member-text">
       <h2>Président</h2>
@@ -135,55 +136,61 @@ nav-menu: true
   <div class="member">
     <div class="member-text">
       <h2>Secrétaire-trésorier</h2>
-      <p>Ali Jawed</p>
+      <p><strong>Ali Jawed</strong></p>
+      <p>Ali Jawed description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/ali.jpg" alt="Ali Jawed">
+      <img src="assets/images/ali.jpeg" alt="Ali Jawed">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Coordonnatrice à la vie étudiante</h2>
-      <p>Béatrice Morselli</p>
+      <p><strong>Béatrice Morselli</strong></p>
+      <p>Béatrice Morselli description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/bea.jpg" alt="Béatrice Morselli">
+      <img src="assets/images/bea.jpeg" alt="Béatrice Morselli">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Coordonnatrice à la vie académique de premier cycle</h2>
-      <p>Laurence Véronneau</p>
+      <p><strong>Laurence Véronneau</strong></p>
+      <p>Laurence Véronneau description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/laurencev.jpg" alt="Laurence Véronneau">
+      <img src="assets/images/laurencev.jpeg" alt="Laurence Véronneau">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Coordonnateur à la vie académique des cycles supérieurs</h2>
-      <p>Félix Blain</p>
+      <p><strong>Félix Blain</strong></p>
+      <p>Félix Blain description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/felix.jpg" alt="Félix Blain">
+      <img src="assets/images/felix.jpeg" alt="Félix Blain">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Coordonnatrice à l’information</h2>
-      <p>Laurence Robillard</p>
+      <p><strong>Laurence Robillard</strong></p>
+      <p>Laurence Robillard description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/laurencer.jpg" alt="Laurence Robillard">
+      <img src="assets/images/laurencer.jpeg" alt="Laurence Robillard">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Déléguées à l’information</h2>
-      <p>Manon Trémouille et Christina Blake</p>
+      <p><strong>Manon Trémouille et Christina Blake</strong></p>
+      <p>Manon Trémouille et Christina Blake description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/manon.jpg" alt="Manon Trémouille et Christina Blake">
+      <img src="assets/images/manon.jpeg" alt="Manon Trémouille et Christina Blake">
     </div>
   </div>
   <div class="member">
@@ -193,16 +200,17 @@ nav-menu: true
     </div>
     <div class="member-image">
       <!-- You can leave this section blank or put a placeholder image for the vacant position -->
-      <img src="path_to_placeholder_image.jpg" alt="Poste vacant">
+      <img src="path_to_placeholder_image.jpeg" alt="Poste vacant">
     </div>
   </div>
   <div class="member">
     <div class="member-text">
       <h2>Délégué aux affaires externes</h2>
-      <p>Golden Welsh</p>
+      <p><strong>Golden Welsh</strong></p>
+      <p>Golden Welsh description</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Golden.jpg" alt="Golden Welsh">
+      <img src="assets/images/.jpeg" alt="Golden Welsh">
     </div>
   </div>
 </section>
