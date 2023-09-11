@@ -4,6 +4,11 @@ title: L'Association étudiante
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
