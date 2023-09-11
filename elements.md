@@ -125,7 +125,8 @@ nav-menu: true
   <div class="member">
     <div class="member-text">
       <h2>Président</h2>
-      <p>Pietro Violo</p>
+      <p><strong>Pietro Violo</strong></p>
+      <p>Bonjour! Je m'appelle Pietro Violo et je suis un étudiant de première année au doctorat en démographie. J'étudie la mortalité des populations grâce à des bases de données inusitées et, dans mon temps libre, j'aime bien faire de l'aviron! </p>
     </div>
     <div class="member-image">
       <img src="assets/images/pietro.png" alt="Pietro Violo">
