@@ -80,5 +80,68 @@ nav-menu: true
       <img src="path_to_image_for_Ali.jpg" alt="Ali Jawed">
     </div>
   </div>
-  <!-- ... add other members here following the same pattern ... -->
+  <div class="member">
+    <div class="member-text">
+      <h2>Coordonnatrice à la vie étudiante</h2>
+      <p>Béatrice Morselli</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Béatrice.jpg" alt="Béatrice Morselli">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Coordonnatrice à la vie académique de premier cycle</h2>
+      <p>Laurence Véronneau</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Laurence_V.jpg" alt="Laurence Véronneau">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Coordonnateur à la vie académique des cycles supérieurs</h2>
+      <p>Félix Blain</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Félix.jpg" alt="Félix Blain">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Coordonnatrice à l’information</h2>
+      <p>Laurence Robillard</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Laurence_R.jpg" alt="Laurence Robillard">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Déléguées à l’information</h2>
+      <p>Manon Trémouille et Christina Blake</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Manon_and_Christina.jpg" alt="Manon Trémouille et Christina Blake">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Responsable des affaires externes</h2>
+      <p>Poste vacant</p>
+    </div>
+    <div class="member-image">
+      <!-- You can leave this section blank or put a placeholder image for the vacant position -->
+      <img src="path_to_placeholder_image.jpg" alt="Poste vacant">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Délégué aux affaires externes</h2>
+      <p>Golden Welsh</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Golden.jpg" alt="Golden Welsh">
+    </div>
+  </div>
 </section>
