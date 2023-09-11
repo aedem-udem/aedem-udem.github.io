@@ -57,33 +57,28 @@ nav-menu: true
 </html>
 
 
-<!-- Members Section -->
-<section id="members">
-    <h4>Notre conseil exécutif</h4>
-    
-    <!-- Member 1 -->
-    <div class="member">
-        <div class="member-image left">
-            <img src="assets/images/pic09.jpg" alt="Président - Pietro Violo" />
-        </div>
-        <div class="member-details left">
-            <p><strong>Président - Pietro Violo</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-    
-    <!-- Member 2 -->
-    <div class="member">
-        <div class="member-image right">
-            <img src="assets/images/pic02.jpg" alt="Secrétaire-trésorier - Ali Jawed" />
-        </div>
-        <div class="member-details right">
-            <p><strong>Secrétaire-trésorier - Ali Jawed</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-    
-    <!-- Repeat the structure for the other members -->
-    
-</section>
 
+
+<!-- Membres -->
+
+<section class="members-container">
+  <div class="member">
+    <div class="member-text">
+      <h2>Président</h2>
+      <p>Pietro Violo</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Pietro.jpg" alt="Pietro Violo">
+    </div>
+  </div>
+  <div class="member">
+    <div class="member-text">
+      <h2>Secrétaire-trésorier</h2>
+      <p>Ali Jawed</p>
+    </div>
+    <div class="member-image">
+      <img src="path_to_image_for_Ali.jpg" alt="Ali Jawed">
+    </div>
+  </div>
+  <!-- ... add other members here following the same pattern ... -->
+</section>
