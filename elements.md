@@ -64,9 +64,9 @@ nav-menu: true
     <!-- Member 1 -->
     <div class="member">
         <div class="member-image left">
-            <img src="assets/images/pic01.jpg" alt="Président - Pietro Violo" />
+            <img src="assets/images/pic09.jpg" alt="Président - Pietro Violo" />
         </div>
-        <div class="member-details">
+        <div class="member-details left">
             <p><strong>Président - Pietro Violo</strong></p>
             <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
         </div>
@@ -77,7 +77,7 @@ nav-menu: true
         <div class="member-image right">
             <img src="assets/images/pic02.jpg" alt="Secrétaire-trésorier - Ali Jawed" />
         </div>
-        <div class="member-details">
+        <div class="member-details right">
             <p><strong>Secrétaire-trésorier - Ali Jawed</strong></p>
             <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
         </div>
@@ -86,85 +86,4 @@ nav-menu: true
     <!-- Repeat the structure for the other members -->
     
 </section>
-
-    <!-- Member 3 -->
-    <div class="member">
-        <div class="member-image left">
-            <img src="assets/images/pic03.jpg" alt="Coordonnatrice à la vie étudiante - Béatrice Morselli" />
-        </div>
-        <div class="member-details">
-            <p><strong>Coordonnatrice à la vie étudiante - Béatrice Morselli</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-
-    <!-- Member 4 -->
-    <div class="member">
-        <div class="member-image right">
-            <img src="assets/images/pic04.jpg" alt="Coordonnatrice à la vie académique de premier cycle - Laurence Véronneau" />
-        </div>
-        <div class="member-details">
-            <p><strong>Coordonnatrice à la vie académique de premier cycle - Laurence Véronneau</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-
-    <!-- Member 5 -->
-    <div class="member">
-        <div class="member-image left">
-            <img src="assets/images/pic05.jpg" alt="Coordonnateur à la vie académique des cycles supérieurs - Félix Blain" />
-        </div>
-        <div class="member-details">
-            <p><strong>Coordonnateur à la vie académique des cycles supérieurs - Félix Blain</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-
-    <!-- Member 6 -->
-    <div class="member">
-        <div class="member-image right">
-            <img src="assets/images/pic06.jpg" alt="Coordonnatrice à l’information - Laurence Robillard" />
-        </div>
-        <div class="member-details">
-            <p><strong>Coordonnatrice à l’information - Laurence Robillard</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-
-    <!-- Member 7 -->
-    <div class="member">
-        <div class="member-image left">
-            <img src="assets/images/pic07.jpg" alt="Déléguées à l’information - Manon Trémouille et Christina Blake" />
-        </div>
-        <div class="member-details">
-            <p><strong>Déléguées à l’information - Manon Trémouille et Christina Blake</strong></p>
-            <p>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget...</p>
-        </div>
-    </div>
-
-    <!-- Member 8 -->
-    <div class="member">
-        <div class="member-image right">
-            <img src="assets/images/pic08.jpg" alt="Responsable des affaires externes - Poste vacant" />
-        </div>
-        <div class="member-details">
-            <p><strong>Responsable des affaires externes - Poste vacant</strong></p>
-            <p>La description du responsable des affaires externes.</p>
-        </div>
-    </div>
-
-    <!-- Member 9 -->
-    <div class="member">
-        <div class="member-image left">
-            <img src="assets/images/pic09.jpg" alt="Délégué aux affaires externes - Golden Welsh" />
-        </div>
-        <div class="member-details">
-            <p><strong>Délégué aux affaires externes - Golden Welsh</strong></p>
-            <p>La description du délégué aux affaires externes.</p>
-        </div>
-    </div>
-</section>
-
-
-
 
