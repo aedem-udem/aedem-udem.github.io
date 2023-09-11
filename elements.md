@@ -4,6 +4,15 @@ title: L'Association étudiante
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page AEDEM</title>
+    <!-- Add your CSS and JavaScript links here -->
+</head>
+<body>
     <!-- Header -->
     <header>
         <h1>Page AEDEM</h1>
