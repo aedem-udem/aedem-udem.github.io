@@ -7,9 +7,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
