@@ -58,7 +58,6 @@ nav-menu: true
 
 
 
-
 <!-- Membres -->
 
 <section class="members-container">
@@ -68,7 +67,7 @@ nav-menu: true
       <p>Pietro Violo</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Pietro.jpg" alt="Pietro Violo">
+      <img src="assets/images/pietro.png" alt="Pietro Violo">
     </div>
   </div>
   <div class="member">
@@ -77,7 +76,7 @@ nav-menu: true
       <p>Ali Jawed</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Ali.jpg" alt="Ali Jawed">
+      <img src="assets/images/ali.jpg" alt="Ali Jawed">
     </div>
   </div>
   <div class="member">
@@ -86,7 +85,7 @@ nav-menu: true
       <p>Béatrice Morselli</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Béatrice.jpg" alt="Béatrice Morselli">
+      <img src="assets/images/bea.jpg" alt="Béatrice Morselli">
     </div>
   </div>
   <div class="member">
@@ -95,7 +94,7 @@ nav-menu: true
       <p>Laurence Véronneau</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Laurence_V.jpg" alt="Laurence Véronneau">
+      <img src="assets/images/laurencev.jpg" alt="Laurence Véronneau">
     </div>
   </div>
   <div class="member">
@@ -104,7 +103,7 @@ nav-menu: true
       <p>Félix Blain</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Félix.jpg" alt="Félix Blain">
+      <img src="assets/images/felix.jpg" alt="Félix Blain">
     </div>
   </div>
   <div class="member">
@@ -113,7 +112,7 @@ nav-menu: true
       <p>Laurence Robillard</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Laurence_R.jpg" alt="Laurence Robillard">
+      <img src="assets/images/laurencer.jpg" alt="Laurence Robillard">
     </div>
   </div>
   <div class="member">
@@ -122,7 +121,7 @@ nav-menu: true
       <p>Manon Trémouille et Christina Blake</p>
     </div>
     <div class="member-image">
-      <img src="path_to_image_for_Manon_and_Christina.jpg" alt="Manon Trémouille et Christina Blake">
+      <img src="assets/images/manon.jpg" alt="Manon Trémouille et Christina Blake">
     </div>
   </div>
   <div class="member">
