@@ -57,6 +57,55 @@ nav-menu: true
 </html>
 
 
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  .members-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .member {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 16px;
+    width: 100%;
+  }
+  .member:nth-of-type(even) .member-text {
+    order: 2;
+  }
+  .member:nth-of-type(even) .member-image {
+    order: 1;
+  }
+  .member-text {
+    flex: 1;
+    padding: 16px;
+  }
+  .member-image {
+    flex: 1;
+    padding: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+  }
+  .member-image img {
+    width: 100%;
+    height: 100%;
+    max-width: 250px;
+    max-height: 250px;
+    object-fit: cover;
+    border-radius: 0%;
+  }
+</style>
+</head>
+
+
+
+
 
 <!-- Membres -->
 
