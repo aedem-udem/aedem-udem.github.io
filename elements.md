@@ -45,11 +45,14 @@ nav-menu: true
         <p>Le local de l'AEDEM se trouve au C-5120 du pavillon Lionel-Groulx. Les membres du comité exécutif, de même que les délégué-e-s, s'y trouvent souvent; n'hésite pas à leur poser des questions si tu les croises au local!</p>
     </section>
 
-    <!-- Fonctionnement des assemblées générales Section -->
-    <section id="assemblies">
-        <h2>Fonctionnement des assemblées générales</h2>
-        <!-- Include the content about general assemblies here -->
-    </section>
+<!-- Fonctionnement des assemblées générales Section -->
+<section id="assemblies">
+    <h2>Fonctionnement des assemblées générales</h2>
+    <p>L'assemblée générale permet à tous les membres de l'AEDEM de s'exprimer sur les différentes positions de l'association. C'est la plus haute instance de l'association étudiante : elle possède un pouvoir décisionnel sur toutes les propositions, ce qui inclut un droit de veto sur toute décision émanant d'une autre instance de l'AEDEM.</p>
+    <p>Qui peut participer à une assemblée générale de l'AEDEM? Si tu es inscrit, à temps partiel ou à temps plein, à l'un des programmes du département de démographie de l'UdeM, tu es membre de l'AEDEM et tu peux participer à ses assemblées! Ça te donne le droit de vote, mais aussi le droit de parole, et le droit de présenter des propositions lors de l'assemblée générale.</p>
+    <p>Quand les assemblées générales ont-elles lieu? L'AEDEM organise deux assemblées générales régulières par année académique, une durant la session d'automne et une autre durant la session d'hiver. Il peut également y avoir des assemblées spéciales lors de circonstances extraordinaires, comme lorsqu'une grève étudiante est proposée. La convocation à une assemblée générale est toujours envoyée par le comité exécutif par courriel et sur les réseaux sociaux au moins cinq jours ouvrables avant que l'assemblée ait lieu, afin de permettre aux membres de s'y préparer.</p>
+    <p>Quels sont les éléments nécessaires à la tenue d'une AG? Tout d'abord, le quorum : il représente le nombre minimal de membres de l'association étudiante qui doivent être présents pour que l'assemblée générale puisse être tenue. L'AEDEM a fixé son quorum à 15 % de l'ensemble de ses membres. L'assemblée ne peut commencer que lorsque le quorum est atteint; les décisions qui sont prises par la suite seront alors considérées comme valides. Ensuite, le présidium : composé minimalement d'une présidente ou d'un président d'assemblée et d'une ou d'un secrétaire, le présidium est chargé de diriger l'assemblée générale, et doit ainsi être approuvé par l'assemblée dès qu'elle est ouverte.</p>
+</section>
 </body>
 </html>
 
