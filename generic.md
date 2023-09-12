@@ -6,9 +6,7 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Page Ressources
-
-##Ton association est toujours là pour t’épauler, mais la FAÉCUM et l’université ont aussi une diversité d’outils et de programmes qui peuvent venir en aide aux étudiants!
+<p><strong>Ton association est toujours là pour t’épauler, mais la FAÉCUM et l’université ont aussi une diversité d’outils et de programmes qui peuvent venir en aide aux étudiants!</strong></p>
 
 Cette page regroupe donc des liens vers des ressources qui pourraient t’être utiles, si tu te trouves dans une ou plusieurs des situations suivantes : 
 
