@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: L'Association étudiante
 image: assets/images/pic01.jpg
 nav-menu: true
@@ -150,7 +150,7 @@ nav-menu: true
       <p>Béatrice Morselli description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/bea.jpeg" alt="Béatrice Morselli">
+      <img src="assets/images/bea.jpg" alt="Béatrice Morselli">
     </div>
   </div>
   <div class="member">
@@ -180,7 +180,7 @@ nav-menu: true
       <p>Laurence Robillard description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/laurencer.jpeg" alt="Laurence Robillard">
+      <img src="assets/images/laurencer.jpg" alt="Laurence Robillard">
     </div>
   </div>
   <div class="member">
@@ -210,7 +210,7 @@ nav-menu: true
       <p>Golden Welsh description</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/.jpeg" alt="Golden Welsh">
+      <img src="assets/images/golden.jpeg" alt="Golden Welsh">
     </div>
   </div>
 </section>
