@@ -179,10 +179,10 @@ Je suis la responsable des affaires étudiantes du premier cycle! (En gros, si t
     <div class="member-text">
       <h2>Coordonnatrice à l’information</h2>
       <p><strong>Laurence Robillard</strong></p>
-      <p>Laurence Robillard description</p>
+      <p>Bonjour, moi c'est Laurence Marie! J'aime les communications, la démocratie étudiante et les longues marches sur la plage. À l'AEDEM, j'essaie de m'assurer que tout le monde soit informé des rencontres et activités pertinentes, et je m'embarque dans trop de projets le fun auxquels je ne peux pas dire non.</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/laurencer.jpg" alt="Laurence Robillard">
+      <img src="assets/images/laurencer.png" alt="Laurence Robillard">
     </div>
   </div>
   <div class="member">
