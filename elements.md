@@ -169,10 +169,10 @@ Je suis la responsable des affaires étudiantes du premier cycle! (En gros, si t
     <div class="member-text">
       <h2>Coordonnateur à la vie académique des cycles supérieurs</h2>
       <p><strong>Félix Blain</strong></p>
-      <p>Félix Blain description</p>
+      <p>Salut, moi c’est Félix. Je suis en première année à la maîtrise en démographie et je m’intéresse beaucoup aux enjeux du vieillissement des populations. Pour toutes vos questions, vous pourrez me trouver soit à la transversalle, soit à la maisonnée!</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/felix.jpeg" alt="Félix Blain">
+      <img src="assets/images/felix.jpg" alt="Félix Blain">
     </div>
   </div>
   <div class="member">
