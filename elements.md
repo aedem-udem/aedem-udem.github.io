@@ -140,7 +140,7 @@ nav-menu: true
       <p>Allo, mon nom est Ali et je suis étudiant dans la majeure en démographie et la mineure en économie. J'aime coder (quand ça marche) et manger à des restos avec les amis.</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/ali.jpeg" alt="Ali Jawed">
+      <img src="assets/images/ali.jpg" alt="Ali Jawed">
     </div>
   </div>
   <div class="member">
@@ -195,7 +195,7 @@ Mes sujets d'intérêts sont principalement les migrations, et la démographie d
 Étant Franco canadienne j'ai un lien tout particulier avec la raclette 😉</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/manon.jpeg" alt="Manon Trémouille et Christina Blake">
+      <img src="assets/images/manon.jpg" alt="Manon Trémouille et Christina Blake">
     </div>
   </div>
   <div class="member">
@@ -215,7 +215,7 @@ Mes sujets d'intérêts sont principalement les migrations, et la démographie d
       <p>Golden Welsh aimerait un jour devenir démographe.</p>
     </div>
     <div class="member-image">
-      <img src="assets/images/golden.jpeg" alt="Golden Welsh">
+      <img src="assets/images/golden.jpg" alt="Golden Welsh">
     </div>
   </div>
 </section>
