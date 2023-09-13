@@ -8,6 +8,29 @@ nav-menu: true
 
 <p><strong>Ton association est toujours là pour t’épauler, mais la FAÉCUM et l’université ont aussi une diversité d’outils et de programmes qui peuvent venir en aide aux étudiants!</strong></p>
 
+<p>Cette page regroupe donc des liens vers des ressources qui pourraient t’être utiles, si tu te trouves dans une ou plusieurs des situations suivantes :</p>
+
+<p><strong>Tu rencontres des difficultés avec l’un de tes professeur-e-s ou chargé-e-s de cours et tu aimerais savoir quels sont tes recours?</strong></p>
+
+<p>Contacte la ou le coordo à la vie académique du premier cycle ou des cycles supérieurs, qui pourra te guider et t’accompagner dans tes démarches auprès du département ou de la faculté.<br>
+Tu peux les joindre par courriel au <a href="mailto:aedem.udem@gmail.com">aedem.udem@gmail.com</a>, en mentionnant « Coordonnateur-trice à la vie académique du premier cycle » ou « des cycles supérieurs » dans le titre de ton message.</p>
+
+<p><strong>Tu voudrais déposer une demande de bourse mais tu ne sais pas par où commencer?</strong></p>
+
+<p>L’AEDEM a monté une liste des bourses pertinentes pour les étudiants de démographie et le calendrier des échéances de soumission. Tu la trouveras à cette adresse :</p>
+<p><a href="https://docs.google.com/spreadsheets/d/17SdP73psbiO5K6DAqP2VMZhSqayD2L8Kz4U2StJucFo/edit#gid=0">LIEN VERS DOCUMENT GOOGLE SHEETS</a></p>
+
+<p>L’UdeM a également préparé un guide pour t’aider à rédiger une demande de bourse.<br>
+<a href="https://wiki.umontreal.ca/pages/viewpageattachments.action?pageId=189567996&preview=/189567996/215580806/R%C3%A9daction%20d%27une%20candidature%20pour%20une%20demande%20de%20bourse.pdf">Guide pour rédiger une demande de bourse</a></p>
+
+<!-- The content continues with more paragraphs and links similarly formatted to the ones above. Make sure to use the appropriate HTML tags for different elements such as <p> for paragraphs, <a> for links, <strong> for bold text, etc. You would just continue to convert your existing content into HTML following this format. -->
+
+
+
+
+
+<p><strong>Ton association est toujours là pour t’épauler, mais la FAÉCUM et l’université ont aussi une diversité d’outils et de programmes qui peuvent venir en aide aux étudiants!</strong></p>
+
 Cette page regroupe donc des liens vers des ressources qui pourraient t’être utiles, si tu te trouves dans une ou plusieurs des situations suivantes : 
 
 <p><strong>Tu rencontres des difficultés avec l’un de tes professeur-e-s ou chargé-e-s de cours et tu aimerais savoir quels sont tes recours?<p><strong>
