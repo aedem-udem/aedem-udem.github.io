@@ -147,7 +147,7 @@ nav-menu: true
     <div class="member-text">
       <h2>Coordonnatrice à la vie étudiante</h2>
       <p><strong>Béatrice Morselli</strong></p>
-      <p>Béatrice Morselli description</p>
+      <p>Salut! Je m’appelle Béa et je suis à la maîtrise en démographie! J’ai le plaisir d’être chargé d’organiser vos activités de sessions et les party! Venez me voir avec toutes vos idées amusantes.</p>
     </div>
     <div class="member-image">
       <img src="assets/images/bea.jpg" alt="Béatrice Morselli">
