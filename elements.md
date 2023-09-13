@@ -137,7 +137,7 @@ nav-menu: true
     <div class="member-text">
       <h2>Secrétaire-trésorier</h2>
       <p><strong>Ali Jawed</strong></p>
-      <p>Ali Jawed description</p>
+      <p>Allo, mon nom est Ali et je suis étudiant dans la majeure en démographie et la mineure en économie. J'aime coder (quand ça marche) et manger à des restos avec les amis.</p>
     </div>
     <div class="member-image">
       <img src="assets/images/ali.jpeg" alt="Ali Jawed">
@@ -157,10 +157,12 @@ nav-menu: true
     <div class="member-text">
       <h2>Coordonnatrice à la vie académique de premier cycle</h2>
       <p><strong>Laurence Véronneau</strong></p>
-      <p>Laurence Véronneau description</p>
+      <p>Coucou! 
+Moi, c’est l’autre Laurence (oui oui on est deux du même nom)!
+Je suis la responsable des affaires étudiantes du premier cycle! (En gros, si tu es au BAC, à la majeure ou à la mineure et que tu as des questions, des recommandations ou une problématique quelconque, fais moi signe!) </p>
     </div>
     <div class="member-image">
-      <img src="assets/images/laurencev.jpeg" alt="Laurence Véronneau">
+      <img src="assets/images/laurencev.png" alt="Laurence Véronneau">
     </div>
   </div>
   <div class="member">
@@ -186,8 +188,11 @@ nav-menu: true
   <div class="member">
     <div class="member-text">
       <h2>Déléguées à l’information</h2>
-      <p><strong>Manon Trémouille et Christina Blake</strong></p>
-      <p>Manon Trémouille et Christina Blake description</p>
+      <p><strong>Manon Trémouille</strong></p>
+      <p>Salut,
+Je m'appelle Manon et je suis à la fin de mon baccalauréat en statistiques et démographie. 
+Mes sujets d'intérêts sont principalement les migrations, et la démographie des pays du Sud global. 
+Étant Franco canadienne j'ai un lien tout particulier avec la raclette 😉</p>
     </div>
     <div class="member-image">
       <img src="assets/images/manon.jpeg" alt="Manon Trémouille et Christina Blake">
@@ -207,7 +212,7 @@ nav-menu: true
     <div class="member-text">
       <h2>Délégué aux affaires externes</h2>
       <p><strong>Golden Welsh</strong></p>
-      <p>Golden Welsh description</p>
+      <p>Golden Welsh aimerait un jour devenir démographe.</p>
     </div>
     <div class="member-image">
       <img src="assets/images/golden.jpeg" alt="Golden Welsh">
